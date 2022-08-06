@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on TeamTrack: FTC Scouting
 <!--
