@@ -1,5 +1,5 @@
 ### Hello there 👋
-- 😄 Pronouns: He/Him
+- 🥸 CS + Philosophy at the University of Illinois Urbana-Champaign
 - 🔭 I’m currently working on TeamTrack: FTC Scouting
 <!--
 **ayuram/ayuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
