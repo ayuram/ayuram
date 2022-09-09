@@ -1,5 +1,5 @@
 ### Hello there 👋
-- 🥸 CS + Philosophy at the University of Illinois Urbana-Champaign
+- 🥸 CS + Philosophy at UIUC
 - 🔭 I’m currently working on TeamTrack: FTC Scouting
 <!--
 **ayuram/ayuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
