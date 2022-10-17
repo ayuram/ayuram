@@ -1,6 +1,6 @@
 ### Hello there 👋
 - 🥸 CS + Philosophy at UIUC
-- 🔭 I’m currently working on TeamTrack: FTC Scouting
+- 🔭 I’m currently working on ✨ _a secret project_ ✨
 <!--
 **ayuram/ayuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
