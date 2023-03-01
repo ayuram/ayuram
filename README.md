@@ -1,5 +1,6 @@
-### Hello there 👋
+### Howdy! 🤠👋
 - 🎓 Computer Science & Philosophy @ University of Illinois at Urbana-Champaign
+- 😄 Pronouns: He/Him
 - 🔭 I’m currently working on 👀 _a secret project_ 👀
 <!--
 **ayuram/ayuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
