@@ -1,4 +1,5 @@
 ### Howdy! 🤠👋
+My primary interests are Software Development and Data Science
 - 🎓 Computer Science & Philosophy @ University of Illinois at Urbana-Champaign
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on 👀 _a secret project_ 👀
