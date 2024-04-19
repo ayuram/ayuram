@@ -1,7 +1,7 @@
 ### Howdy! 🤠👋
 My primary interests are Software Development and Robotics
 - 🎓 Computer Science @ University of Illinois at Urbana-Champaign
-- 🔭 I’m currently working on 👀 _a secret project_ 👀
+- 🔭 I’m currently working on _The Technology Ethic_
 <!--
 **ayuram/ayuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
