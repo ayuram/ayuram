@@ -1,5 +1,6 @@
 ### Howdy! 🤠👋
 My primary interests are Software Engineering, Robotics, and Machine Learning
+
 I also like Philosophy
 - 🎓 Computer Science @ University of Illinois at Urbana-Champaign
 - 🔭 I’m currently working on [*The Technology Ethic*](https://github.com/ayuram/technology-ethic)
