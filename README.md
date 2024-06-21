@@ -1,7 +1,7 @@
 ### Howdy! 🤠👋
 I like web dev and ml
 
-I also like Philosophy
+I also like philosophy
 - 🎓 Computer Science @ University of Illinois at Urbana-Champaign
 - 🔭 I’m currently working on [*The Technology Ethic*](https://github.com/ayuram/technology-ethic)
 
