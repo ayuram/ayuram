@@ -3,7 +3,7 @@ I like web dev and ml
 
 I also like philosophy
 - 🎓 Computer Science @ University of Illinois at Urbana-Champaign
-- 🔭 I’m currently working on [*The Technology Ethic*](https://github.com/ayuram/technology-ethic)
+- 🔭 I’m currently working on [*fraimwork*](https://github.com/fraimwork/fraimwork)
 
 <!--
 **ayuram/ayuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
