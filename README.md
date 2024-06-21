@@ -1,5 +1,5 @@
 ### Howdy! 🤠👋
-My primary interests are Software Engineering, Robotics, and Machine Learning
+I like web dev and ml
 
 I also like Philosophy
 - 🎓 Computer Science @ University of Illinois at Urbana-Champaign
