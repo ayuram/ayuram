@@ -2,7 +2,7 @@
 I like web dev and ml
 
 I also like philosophy
-- 🎓 Computer Science @ University of Illinois at Urbana-Champaign
+- 🎓 Computer Science @ University of Illinois Urbana-Champaign
 - 🔭 I’m currently working on [*fraimwork*](https://github.com/fraimwork/fraimwork)
 
 <!--
