@@ -3,7 +3,7 @@ I like web dev and ml
 
 I also like philosophy
 - 🎓 Computer Science @ University of Illinois Urbana-Champaign
-- 🔭 I’m currently working on [*fraimwork*](https://github.com/fraimwork/fraimwork)
+- 🔭 I’m currently working on *nothing*
 
 <!--
 **ayuram/ayuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
