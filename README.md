@@ -1,5 +1,5 @@
 ### Howdy! 🤠👋
-I like web dev and ml
+I like programming
 
 I also like philosophy
 - 🎓 Computer Science @ University of Illinois Urbana-Champaign
