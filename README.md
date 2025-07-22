@@ -3,7 +3,7 @@ I like programming
 
 I also like philosophy
 - 🎓 Computer Science @ University of Illinois Urbana-Champaign
-- 🔭 I’m currently working on *nothing*
+- 🔭 I’m currently working at Meta
 
 <!--
 **ayuram/ayuram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
